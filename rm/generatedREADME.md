@@ -1,7 +1,5 @@
-export default
-function generateMarkdown(data){
-  return `# ${data.title}
-  ${data.description}
+# me
+  undefined
   ## TABLE OF CONTENTS:
   * [INSTALLATION](#installation)
   * [USAGE](#usage)
@@ -11,19 +9,16 @@ function generateMarkdown(data){
   * [QUESTIONS](#questions)
   ## INSTALLATION:
   OPEN CONSOLE AND RUN THE FOLLOWING TO INSTALL DEPENDENCIES:
-  \`\`\`${data.installation}\`\`\`
+  ```me```
   ### USAGE:
-  ${data.usage}
+  me
   ### CONTRIBUTERS:
-  ${data.contribution}
+  me
   ### LISENCE:
   THIS PROJECT IS LISENCED BY:
-  ${data.lisence}
+  MIT
   ### QUESTIONS:
   LET ME KNOW IF YOU HAVE ANY QUESTIONS, CONTACT ME @:
-  [GitHub](https://github.com/${data.username}) or 
-  by email at ${data.email}
-   `;
-}
-
-
+  [GitHub](https://github.com/me) or 
+  by email at me
+   

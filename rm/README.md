@@ -1,7 +1,5 @@
-export default
-function generateMarkdown(data){
-  return `# ${data.title}
-  ${data.description}
+# a
+  undefined
   ## TABLE OF CONTENTS:
   * [INSTALLATION](#installation)
   * [USAGE](#usage)
@@ -9,21 +7,21 @@ function generateMarkdown(data){
   * [TESTS](#test) 
   * [LISENCE](#lisence)
   * [QUESTIONS](#questions)
-  ## INSTALLATION:
+  ##INSTALLATION:
   OPEN CONSOLE AND RUN THE FOLLOWING TO INSTALL DEPENDENCIES:
-  \`\`\`${data.installation}\`\`\`
+  ```undefined```
   ### USAGE:
-  ${data.usage}
-  ### CONTRIBUTERS:
-  ${data.contribution}
+  a
+  ### CONTRIBUTION:
+  a
+  ### TESTS:
+  RUN THE FOLLOWING TO TEST
+  ```g```
   ### LISENCE:
   THIS PROJECT IS LISENCED BY:
-  ${data.lisence}
+  
   ### QUESTIONS:
   LET ME KNOW IF YOU HAVE ANY QUESTIONS, CONTACT ME @:
-  [GitHub](https://github.com/${data.username}) or 
-  by email at ${data.email}
-   `;
-}
-
-
+  [GitHub](https://github.com/a) or 
+  by email at a
+   
