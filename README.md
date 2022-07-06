@@ -7,7 +7,7 @@
   ### USAGE:
   Using node js, user can create a README.md file for their project with questions prompted for the user
   and user input is captured by Inquirer
-  <img width= "1425" alt="ScreenShot" src="file:///Users/adrian512/Desktop/Screen%20Shot%202022-07-06%20at%208.21.57%20AM.png">
+  <img width="1440" alt="Screen Shot 2022-07-06 at 8 21 57 AM" src="https://user-images.githubusercontent.com/101302483/177561593-eed92109-8d44-4059-8a06-b1e0fc9ab4bb.png">
   ### QUESTIONS:
   LET ME KNOW IF YOU HAVE ANY QUESTIONS, CONTACT ME @:
   [GitHub](https://github.com/Poison512) or 
