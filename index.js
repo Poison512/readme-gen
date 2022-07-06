@@ -16,6 +16,11 @@ const promptUser = () => {
     },
     {
       type: 'input',
+      name: 'description',
+      message: 'Provide description of your project...'
+    },
+    {
+      type: 'input',
       name: 'author',
       message: 'What is the authors name?',
     },
@@ -37,7 +42,7 @@ const promptUser = () => {
     {
       type: 'input',
       name: 'usage',
-      message: 'What the user need to know when using this repo',
+      message: 'What does the user need to know when using this repo...',
     },
     {
       type: 'input',
